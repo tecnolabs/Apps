@@ -66,7 +66,7 @@
   <plugin name="cordova-plugin-dialogs" spec="^1.1.1"/>
   <plugin name="cordova-plugin-globalization" spec="^1.0.1"/>
   <plugin name="cordova-plugin-extension" spec="^1.1.4"/>
-  <plugin name="nl.x-services.plugins.socialsharing" spec="^4.3.19"/>
+  <plugin name="nl.x-services.plugins.socialsharing" spec="^4.3.8"/>
   <plugin name="cordova-plugin-inappbrowser" spec="^1.0.1"/>
   <plugin name="com.rjfun.cordova.iad" spec="^2.0.4"/>
   <plugin name="cordova-plugin-admobpro" spec="^2.8.3"/>
