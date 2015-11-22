@@ -68,7 +68,6 @@
   <plugin name="cordova-plugin-extension" spec="https://github.com/floatinghotpot/cordova-extension.git"/>
   <plugin name="nl.x-services.plugins.socialsharing" spec="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"/>
   <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/apache/cordova-plugin-inappbrowser.git"/>
-  <plugin name="cordova-iad-pro" spec="https://github.com/floatinghotpot/cordova-iad-pro.git"/>
   <plugin name="cordova-plugin-admobpro" spec="https://github.com/floatinghotpot/cordova-admob-pro.git"/>
   <plugin name="cordova-plugin-whitelist" spec="https://github.com/apache/cordova-plugin-whitelist.git"/>
   <plugin name="de.appplant.cordova.plugin.email-composer" spec="https://github.com/katzer/cordova-plugin-email-composer.git"/>
